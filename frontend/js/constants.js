@@ -1,9 +1,9 @@
 const contractAddress = "0x3908A2B8b5B3639BB6A91567279e5639d3413393"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Sugoi Mafia NFT Project!!";
+const welcome_h1 = "Welcome Sugoi Mafia!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = '5555 Mafia Members. #1 Web3 money making group. NFT & Crypto Plays';
 const h1_presale_coming_soon = "Sugoi Mafia Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
